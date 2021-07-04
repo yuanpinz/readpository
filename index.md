@@ -19,8 +19,7 @@
 
 - Nomadland: Surviving America in the Twenty-First Century
 - Evicted: Poverty and Profit in the American City
-
-### Self-help, biography
+- Sacred Hoops: Spiritual Lessons of a Hardwood Warrior
 
 - Principles: Life and Work
 - The Sixth Man
