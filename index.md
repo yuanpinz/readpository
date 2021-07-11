@@ -14,6 +14,7 @@
 - Animal Farm | Read; Pending for notes.
 - Main Street | Read; Pending for notes.
 - The Great Gatsby
+- The Sonnets of William Shakespeare [[Readpo]](https://github.com/yuanpinz/readpository/tree/main/readpos/sonnets-shakespeare) [[Note]](./readpos/sonnets-shakespeare/the-sonnets-of-william-shakespeare-notes.md) | Reading [1/154]
 
 ### Non-fiction
 
