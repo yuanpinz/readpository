@@ -2,6 +2,8 @@
 
 ## Part One: Essay Writing
 
+![Part One Mind Map](pics/1.Essay-Writing.png)
+
 ### 1. An Introduction to Writing
 
 - In writing, **any idea that you advance must be supported with specific reasons or details**.
