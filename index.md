@@ -4,8 +4,8 @@
 
 ### English Learning
 
-- Merriam-Webster's Vocabulary Builder [[Readpo]](readpos/mwvb) [[Note]](./readpos/mwvb/merriam-websters-vocabulary-builder-notes.md) | Reading [1/30]
-- College Writing Skills With Readings [[Readpo]](readpos/cwswr) [[Note]](./readpos/cwswr/college-writing-skills-with-readings-notes.md) | Reading [2/45] 
+- Merriam-Webster's Vocabulary Builder [[Readpo]](https://github.com/yuanpinz/readpository/tree/main/readpos/mwvb) [[Note]](./readpos/mwvb/merriam-websters-vocabulary-builder-notes.md) | Reading [1/30]
+- College Writing Skills With Readings [[Readpo]](https://github.com/yuanpinz/readpository/tree/main/readpos/cwswr) [[Note]](./readpos/cwswr/college-writing-skills-with-readings-notes.md) | Reading [2/45] 
 
 ### Literature
 
