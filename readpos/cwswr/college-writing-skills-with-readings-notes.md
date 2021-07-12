@@ -2,7 +2,7 @@
 
 ## Part One: Essay Writing
 
-![Part One Mind Map](pics/1.Essay-Writing.png)
+![Part One Mind Map](./imgs/1.Essay-Writing.png)
 
 ### 1. An Introduction to Writing
 
