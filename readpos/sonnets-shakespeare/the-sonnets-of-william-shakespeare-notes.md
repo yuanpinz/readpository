@@ -32,9 +32,9 @@ Read all sonnets online: [https://www.nosweatshakespeare.com/sonnets/](https://w
 >
 > *To eat the world’s due, by the grave and thee.*
 
-[^s1.1]: We desire increase from fairest creatures
+[^s1]: We desire increase from fairest creatures
 
-[^s1.2]: so that
+[^s2]: so that
 
 
 
