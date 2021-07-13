@@ -4,9 +4,9 @@ Read all sonnets online: [https://www.nosweatshakespeare.com/sonnets/](https://w
 
 ## Sonnet 1
 
-> *From fairest creatures we desire increase,*
+> *From fairest creatures we desire increase,[^s1.1]*
 >
-> *That thereby beauty’s rose might never die,*
+> *That[^s1.2] thereby beauty’s rose might never die,*
 >
 > *But as the riper should by time decrease,*
 >
@@ -31,6 +31,13 @@ Read all sonnets online: [https://www.nosweatshakespeare.com/sonnets/](https://w
 > *Pity the world, or else this glutton be,*
 >
 > *To eat the world’s due, by the grave and thee.*
+
+[^s1.1]: We desire increase from fairest creatures
+[^s1.2]: so that
+
+
+
+
 
 
 
