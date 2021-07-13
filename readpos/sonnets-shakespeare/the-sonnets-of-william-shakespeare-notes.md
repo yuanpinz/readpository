@@ -4,9 +4,9 @@ Read all sonnets online: [https://www.nosweatshakespeare.com/sonnets/](https://w
 
 ## Sonnet 1
 
-> *From fairest creatures we desire increase,[^s1.1]*
+> *From fairest creatures we desire increase,[^s1]*
 >
-> *That[^s1.2] thereby beauty’s rose might never die,*
+> *That[^s2] thereby beauty’s rose might never die,*
 >
 > *But as the riper should by time decrease,*
 >
