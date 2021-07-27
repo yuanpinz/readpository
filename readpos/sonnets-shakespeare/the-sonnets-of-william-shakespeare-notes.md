@@ -84,39 +84,37 @@ Read all sonnets online: [https://www.nosweatshakespeare.com/sonnets/](https://w
 ## Sonnet 47
 ## Sonnet 48
 
-> How careful was I when I took my way,
+> *How careful was I when I took my way,*
 >
-> Each trifle under truest bars to thrust,[^48-1]
+> *Each trifle under truest bars to thrust,*[^48-1]
 >
-> That to my use it might unused stay
+> *That to my use it might unused stay*
 >
-> From hands of falsehood, in sure wards of trust!
+> *From hands of falsehood, in sure wards of trust!*
 >
-> But thou, to whom my jewels trifles are,
+> *But thou, to whom my jewels trifles are,*
 >
-> Most worthy comfort, now my greatest grief,
+> *Most worthy comfort, now my greatest grief,*
 >
-> Thou best of dearest, and mine only care,
+> *Thou best of dearest, and mine only care,*
 >
-> Art left the prey of every vulgar thief.
+> *Art left the prey of every vulgar thief.*
 >
-> Thee have I not lock’d up in any chest,
+> *Thee have I not lock’d up in any chest,*
 >
-> Save where thou art not, though I feel thou art,
+> *Save where thou art not, though I feel thou art,*
 >
-> Within the gentle closure of my breast,
+> *Within the gentle closure of my breast,*
 >
-> From whence at pleasure thou mayst come and part;
+> *From whence at pleasure thou mayst come and part;*
 >
-> And even thence thou wilt be stol’n I fear,
+> *And even thence thou wilt be stol’n I fear,*
 >
-> For truth proves thievish for a prize so dear.
+> *For truth proves thievish for a prize so dear.*
 
 [^48-1]: trifle:没价值的东西，truest bars：最牢靠的铁条， thrust：塞进
 
-这首诗概括如下：我远行的时候会把哪怕最琐碎的东西也放进保险柜，却唯独没办法把你也放进去，即使把你藏进我的胸膛也担心你被别人偷走。然后还把有人和珠宝相提并论。
-
-讲道理这首诗有点恶啊，如果不是莎翁我还以为是郭敬明写的。同样是惜别友人，远不如“桃花潭水深千尺，不及汪伦送我情“的意境高明。
+中心思想概括如下：我远行的时候会把哪怕最琐碎的东西也放进保险箱，却唯独没办法把你也放进去，即使把你藏进我的胸膛也担心你被别人偷走。然后还把友人和最宝贵的珠宝相比。虽然是夸张华丽的写法，但我读起来还是有点恶心，如果不是莎翁我还以为是郭敬明写的。同样是惜别友人，远不如“桃花潭水深千尺，不及汪伦送我情“的意境高明。
 
 ## Sonnet 49
 ## Sonnet 50
