@@ -4,9 +4,9 @@ Read all sonnets online: [https://www.nosweatshakespeare.com/sonnets/](https://w
 
 ## Sonnet 1
 
-> *From fairest creatures we desire increase,[^1-1]*
+> *From fairest creatures we desire increase,*
 >
-> *That[^1-2] thereby beauty’s rose might never die,*
+> *That thereby beauty’s rose might never die,*
 >
 > *But as the riper should by time decrease,*
 >
@@ -31,10 +31,6 @@ Read all sonnets online: [https://www.nosweatshakespeare.com/sonnets/](https://w
 > *Pity the world, or else this glutton be,*
 >
 > *To eat the world’s due, by the grave and thee.*
-
-[^1-1]: We desire increase from fairest creatures
-
-[^1-2]: so that
 
 ## Sonnet 2
 ## Sonnet 3
@@ -64,6 +60,37 @@ Read all sonnets online: [https://www.nosweatshakespeare.com/sonnets/](https://w
 ## Sonnet 27
 ## Sonnet 28
 ## Sonnet 29
+
+> *When in disgrace with fortune and men’s eyes*
+>
+> *I all alone beweep my outcast state,*
+>
+> *And trouble deaf heaven with my bootless cries,*
+>
+> *And look upon myself, and curse my fate,*
+>
+> *Wishing me like to one more rich in hope,*
+>
+> *Featured like him, like him with friends possessed,*
+>
+> *Desiring this man’s art, and that man’s scope,*
+>
+> *With what I most enjoy contented least;*
+>
+> *Yet in these thoughts my self almost despising,*
+>
+> *Haply I think on thee, and then my state,*
+>
+> *Like to the lark at break of day arising*
+>
+> *From sullen earth, sings hymns at heaven’s gate;*
+>
+> *For thy sweet love remembered such wealth brings*
+>
+> *That then I scorn to change my state with kings.*
+
+本诗使用了强烈的对比和夸张的比喻来说明自己的失落和“thy sweet love”给他带来的振奋。让我印象深刻的是“And trouble deaf heaven with my bootless cries,”和“From sullen earth, sings hymns at heaven’s gate”形成的对比，让我觉得作者应该是个无宗教信仰的人，天堂跟友人的爱相比都要失色。
+
 ## Sonnet 30
 ## Sonnet 31
 ## Sonnet 32
