@@ -26,7 +26,7 @@ The hat represent self-ego, prime, self-personalities
 
 **Chapter 4**. *Neutral*. [Seeking approval from others]. 
 
-I was out of breath anyway, so I quit horsing around. I took off my hat and looked at it for about the ninetieth time. "I got it in New York this morning. For a buck. Ya like it?"
+> I was out of breath anyway, so I quit horsing around. I took off my hat and looked at it for about the ninetieth time. "I got it in New York this morning. For a buck. Ya like it?"
 
 **Chapter 4**. *Negative*.  
 
