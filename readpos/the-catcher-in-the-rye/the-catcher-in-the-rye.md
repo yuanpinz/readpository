@@ -116,6 +116,24 @@ The hat represent self-ego, prime, self-personalities
 
 ## The Museum of Natural History
 
+>Even though it was Sunday and Phoebe wouldn’t be there with her class or anything, and even though it was so damp and lousy out, I walked all the way through the park over to the Museum of Natural History. I knew that was the museum the kid with the skate key meant. I knew that whole museum routine like a book. Phoebe went to the same school I went to when I was a kid, and we used to go there all the time.
 
+>I get very happy when I think about it. Even now. I remember after we looked at all the Indian stuff, usually we went to see some movie in this big auditorium. . . . Nobody gave too much of a damn about old Columbus, but you always had a lot of candy and gum and stuff with you, and the inside of that auditorium had such a nice smell. It always smelled like it was raining outside, even if it wasn’t, and you were in the only nice, dry, cosy place in the world.
 
-## The Ducks
+>The best thing, though, in that museum was that everything always stayed right where it was. Nobody’d move. You could go there a hundred thousand times, and that Eskimo would still be just finished catching those two fish, the birds would still be on their way south, the deers would still be drinking out of that water hole, with their pretty antlers and their pretty, skinny legs, and that squaw with the naked bosom would still be weaving that same blanket.
+
+>Nobody’d be different. The only thing that would be different would be you. Not that you’d be so much older or anything. It wouldn’t be that, exactly. You’d just be different, that’s all.
+
+>I kept walking and walking, and I kept thinking about old Phoebe going to that museum on Saturdays the way I used to. I thought how she’d see the same stuff I used to see, and how  she’d be different every time she saw it. It didn’t exactly depress me to think about it, but it didn’t make me feel gay as hell, either. Certain things they should stay the way they are. You ought to be able to stick them in one of those big glass cases and just leave them alone.
+
+## The Ducks in the Central Park Lagoon
+
+> I was thinking about the lagoon in Central Park, down near Central Park South. I was wondering if it would be frozen over when I got home, and if it was, where did the ducks go. I was wondering where the ducks went when the lagoon got all icy and frozen over. I wondered if some guy came in a truck and took them away to a zoo or something.
+
+> “You know those ducks in that lagoon right near Central Park South? That little lake? By any chance, do you happen to know where they go, the ducks, when it gets all frozen over? Do you happen to know, by any chance?”
+
+> He was a much better guy than the other driver I’d had. Anyway, I thought maybe he might know about the ducks. . . . [“]Do you know, by any chance? I mean does somebody come around in a truck or something and take them away, or do they fly away by themselves—go south or something?”
+
+> I figured I’d go by that little lake and see what the hell the ducks were doing, see if they were around or not. I still didn’t know if they were around or not. It wasn’t far over to the park, and I didn’t have any place else special to go to—I didn’t even know where I was going to sleep yet—so I went. I wasn’t tired or anything. I just felt blue as hell.
+
+> Then, finally, I found it. What it was, it was partly frozen and partly not frozen. But I didn’t see any ducks around. I walked all around the whole damn lake—I damn near fell in once, in fact—but I didn’t see a single duck. I thought maybe if there were any around, they might be asleep or something near the edge of the water, near the grass and all.
