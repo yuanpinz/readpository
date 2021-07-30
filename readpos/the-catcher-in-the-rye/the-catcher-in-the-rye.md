@@ -6,7 +6,7 @@ The hat represent self-ego, prime, self-personalities
 
 **Chapter 3**. *Positive*. [The hat appeared first time]. 
 
-> I took off my coat and my tie and unbuttoned my shirt collar; and then I put on this hat that I'd bought in New York that morning. It was this red hunting hat, with one of those very, very long peaks. I saw it in the window of this sports store when we got out of the subway, just after I noticed I'd lost all the goddam foils. It only cost me a buck. The way I wore it, I swung the old peak way around to the back very corny, I'll admit, but **I liked it that way.**
+> I took off my coat and my tie and unbuttoned my shirt collar; and then I put on this hat that I'd bought in New York that morning. It was this red hunting hat, with one of those very, very long peaks. I saw it in the window of this sports store when we got out of the subway, just after I noticed I'd lost all the goddam foils. It only cost me a buck. The way I wore it, I swung the old peak way around to the back very corny, I'll admit, but **I liked it that way.**
 
 **Chapter 3**. *Positive*. [The hat appeared first time]. 
 
@@ -46,7 +46,7 @@ I was out of breath anyway, so I quit horsing around. I took off my hat and look
 
 **Chapter 8**. *Neutral*. [Encouraging himself]. 
 
-> He'd smacked my lip right on my teeth, and it was pretty sore. My ears were nice and warm, though. That hat I bought had earlaps in it, and I put them on I didn't give a damn how I looked. Nobody was around anyway. Everybody was in the sack.
+> He'd smacked my lip right on my teeth, and it was pretty sore. My ears were nice and warm, though. That hat I bought had earlaps in it, and I put them on I didn't give a damn how I looked. Nobody was around anyway. Everybody was in the sack.
 
 **Chapter 8**. *Negative*. [Hiding the hat]
 
@@ -58,11 +58,11 @@ I was out of breath anyway, so I quit horsing around. I took off my hat and look
 
 > They were so ignorant, and they had those sad, fancy hats on and all. 
 
->  If somebody, some girl in an awful-looking hat, for instance, comes all the way to New York from Seattle, Washington, for God's sake
+>  If somebody, some girl in an awful-looking hat, for instance, comes all the way to New York from Seattle, Washington, for God's sake
 
 **Chapter 13**. *Neutral*. [Frozen and angry]
 
-> But it was freezing cold, and I took my red hunting hat out of my pocket and put it on I didn't give a damn how I looked. I even put the earlaps down. I wished I knew who'd swiped my gloves at Pencey, because my hands were freezing.
+> But it was freezing cold, and I took my red hunting hat out of my pocket and put it on I didn't give a damn how I looked. I even put the earlaps down. I wished I knew who'd swiped my gloves at Pencey, because my hands were freezing.
 
 **Chapter 13**. *Neutral*. [Imply the prostitute had no personalities]
 
@@ -96,11 +96,11 @@ I was out of breath anyway, so I quit horsing around. I took off my hat and look
 
 **Chapter 25**. *Neutral*
 
-> Finally, I saw her. I saw her through the glass part of the door. The reason I saw her, she had my crazy hunting hat on you could see that hat about ten miles away.
+> Finally, I saw her. I saw her through the glass part of the door. The reason I saw her, she had my crazy hunting hat on you could see that hat about ten miles away.
 
 **Chapter 25**. *Neutral*
 
-> She wouldn't answer me. All she did was, she took off my red hunting hat the one I gave her and practically chucked it right in my face. Then she turned her back on me again. 
+> She wouldn't answer me. All she did was, she took off my red hunting hat the one I gave her and practically chucked it right in my face. Then she turned her back on me again. 
 
 **Chapter 25**. *Neutral*. [Cowboy hat from a boy]
 
@@ -108,7 +108,7 @@ I was out of breath anyway, so I quit horsing around. I took off my hat and look
 
 **Chapter 25**. *Negative*.
 
-> Then what she did it damn near killed me she reached in my coat pocket and took out my red hunting hat and put it on my head.
+> Then what she did it damn near killed me she reached in my coat pocket and took out my red hunting hat and put it on my head.
 
 **Chapter 25**. *Positive*.
 
