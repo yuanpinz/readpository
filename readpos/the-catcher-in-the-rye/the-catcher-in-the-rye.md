@@ -1,5 +1,14 @@
 # The Catcher in the Rye
 
+## Online Resources
+
+- [Read Online](http://esl-bits.net/ESL.English.Learning.Audiobooks/Cacher.in.The.Rye/indice.html)
+- [Study Guide: ENotes](https://www.enotes.com/topics/catcher-in-the-rye)
+- [Study Guide: CourseHero](https://www.coursehero.com/lit/The-Catcher-in-the-Rye/)
+- [Study Guide: SparkNotes](https://www.sparknotes.com/lit/catcher/)
+- [YouTube Analysis from Wisecrack](https://youtu.be/z_UIdPx4-uU)
+- YouTube Analysis from CrashCourse: [Part One](https://youtu.be/R66eQLLOins), [Part Two](https://youtu.be/LI1CusL7Ceo)
+
 ## A Journey with the hat
 
 The hat represent self-ego, prime, self-personalities
