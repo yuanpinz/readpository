@@ -9,7 +9,7 @@
 
 ### Literature
 
-- The Catcher in the Rye | Read; Pending for notes.
+- The Catcher in the Rye [[Readpo]](https://github.com/yuanpinz/readpository/tree/main/readpos/the-catcher-in-the-rye) [[Note]](./readpos/the-catcher-in-the-rye/the-catcher-in-the-rye.md)
 - To Kill a Mockingbird |Read; Pending for notes.
 - Animal Farm | Read; Pending for notes.
 - Main Street | Read; Pending for notes.
